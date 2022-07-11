@@ -8,6 +8,7 @@
 El presente Trabajo Fin de Máster (TFM) tiene por objetivo final la implementación de una optimización de carteras de activos financieros mediante la utilización de algoritmos de aprendizaje profundo.
 
 A modo simplificado es posible describir al proceso por las siguientes etapas:
+
 •	En el desarrollo del trabajo se seleccionan, a través de una red neuronal (definición central en el aprendizaje profundo), 5 acciones que cumplan con ciertos 
 requisitos.
 
